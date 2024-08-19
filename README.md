@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**ChiperSage/chipersage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm ChiperSage AKA ByteNinja 👋
 
-Here are some ideas to get you started:
+### About Me
+I'm a Full-Stack Developer with experience in building web applications using JavaScript, React, and Node.js. I love to solve complex problems and build scalable software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Express
+- **Tools**: Git, Docker, AWS
+
+### Projects
+
+
+### Fun Facts
+- 🔭 I’m currently working on an Login Register-based apps.
+- 🌱 I’m currently learning random languages.
+- 😄 Pronouns: He/Him
