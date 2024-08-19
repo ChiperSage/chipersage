@@ -10,8 +10,9 @@ I'm a passionate Backend Developer with a focus on creating secure and efficient
 - **Frameworks**: React, Node.js, Express, etc
 
 ### Projects
-
+- https://github.com/ChiperSage/Login-Register-Laravel11
 - https://github.com/ChiperSage/Login-Register-Express.js
+- https://github.com/ChiperSage/Login-Register-Codeigniter4
 
 ### Fun Facts
 - 🔭 I’m currently working on an Login Register-based apps.
