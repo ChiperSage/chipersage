@@ -3,12 +3,11 @@
 # Hi, I'm ChiperSage AKA ByteNinja 👋
 
 ### About Me
-I'm a Backend Web Developer with experience in building web applications using JavaScript, React, and Node.js. I love to solve complex problems and build scalable software solutions.
+I'm a passionate Backend Developer with a focus on creating secure and efficient authentication systems. I have experience in building login and registration features across several popular programming languages and frameworks. Multi-Language Login & Registration Systems. I have developed and implemented login and registration systems in various programming languages, each tailored to the specific strengths and best practices of the language. Here are some of the languages I've used:
 
 ### Skills
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Express
-- **Tools**: Git, Docker, AWS
+- **Languages**: JavaScript, Python, Java, etc
+- **Frameworks**: React, Node.js, Express, etc
 
 ### Projects
 
