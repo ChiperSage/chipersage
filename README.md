@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm ChiperSage AKA ByteNinja 👋
+# Hi There 👋
 
 ### About Me
 I'm a passionate Backend Developer with a focus on creating secure and efficient authentication systems. I have experience in building login and registration features across several popular programming languages and frameworks. I have developed and implemented login and registration systems in various programming languages, each tailored to the specific strengths and best practices of the language.
