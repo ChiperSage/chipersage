@@ -17,3 +17,13 @@ I'm a passionate Backend Developer with a focus on creating secure and efficient
 - 🔭 I’m currently working on an Login Register-based apps.
 - 🌱 I’m currently learning random languages.
 - Government staff by day, coder by night. Balancing public service and tech passion, one line of code at a time.
+
+### Thank You for Your Support!
+
+Thank you for visiting this project! Your interest and support are greatly appreciated. If you find this project useful or helpful in any way, consider giving it a star ⭐ on GitHub! Your support helps me continue improving and developing more awesome features.
+
+If you'd like to contribute or provide feedback, feel free to open an issue or submit a pull request. Together, we can make this project even better!
+
+If you would like to further support the development of this project, consider making a donation. Your contributions help keep this project alive and allow me to dedicate more time to making improvements and adding new features. Any amount is greatly appreciated!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8APCCQ)
