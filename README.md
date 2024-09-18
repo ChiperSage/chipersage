@@ -12,7 +12,7 @@ I'm a passionate Backend Developer with a focus on creating secure and efficient
 - https://github.com/ChiperSage/Login-Register-Codeigniter4
 
 ### Fun Facts
-- 🔭 I’m currently working on an Login Register-based apps.
+- 🔭 I’m currently working on an Data Science and Data Analytics, Login Register-based apps.
 - 🌱 I’m currently learning random languages.
 - Government staff by day, coder by night. Balancing public service and tech passion, one line of code at a time.
 
