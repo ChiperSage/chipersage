@@ -7,6 +7,7 @@ I'm a passionate Backend Developer with a focus on creating secure and efficient
 - Javascript, Python, PHP, Typescript.
 
 ### Projects
+- https://github.com/ChiperSage/Login-Register-RubyOnRails
 - https://github.com/ChiperSage/Login-Register-Laravel11
 - https://github.com/ChiperSage/Login-Register-Express.js
 - https://github.com/ChiperSage/Login-Register-Codeigniter4
