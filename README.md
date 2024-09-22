@@ -18,8 +18,10 @@ I'm a passionate Backend Developer with a focus on creating secure and efficient
 
 ### Thank You for Your Support!
 
-Thank you for visiting this project. If you find this project useful or helpful in any way, consider giving it a star ⭐ on GitHub! Your support helps me continue improving and developing more awesome features. If you'd like to contribute or provide feedback, feel free to open an issue or submit a pull request. Together, we can make this project even better!
+Thank you for taking the time to explore this project! Your interest and engagement truly drive its growth. If you find this project valuable, a simple star ⭐ on GitHub goes a long way in supporting further development and innovation.
 
-If you would like to further support the development of this project, consider making a donation. Your contributions help keep this project alive and allow me to dedicate more time to making improvements and adding new features. Any amount is greatly appreciated!
+For those who want to take their support a step further, contributions in any form are welcome. Whether through feedback, submitting pull requests, or even a donation, your involvement helps ensure the continued progress and enhancement of this project.
+
+Donations, while not expected, enable more time and resources to be dedicated to new features and improvements. Every bit of support makes a meaningful difference, and your generosity is greatly appreciated!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8APCCQ)
