@@ -18,9 +18,7 @@ I'm a passionate Backend Developer with a focus on creating secure and efficient
 
 ### Thank You for Your Support!
 
-Thank you for visiting this project! Your interest and support are greatly appreciated. If you find this project useful or helpful in any way, consider giving it a star ⭐ on GitHub! Your support helps me continue improving and developing more awesome features.
-
-If you'd like to contribute or provide feedback, feel free to open an issue or submit a pull request. Together, we can make this project even better!
+Thank you for visiting this project. If you find this project useful or helpful in any way, consider giving it a star ⭐ on GitHub! Your support helps me continue improving and developing more awesome features. If you'd like to contribute or provide feedback, feel free to open an issue or submit a pull request. Together, we can make this project even better!
 
 If you would like to further support the development of this project, consider making a donation. Your contributions help keep this project alive and allow me to dedicate more time to making improvements and adding new features. Any amount is greatly appreciated!
 
