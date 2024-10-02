@@ -19,10 +19,10 @@ I'm a passionate Backend Developer with a focus on creating secure and efficient
 
 ### Thank You for Your Support!
 
-Thank you for taking the time to explore this project! Your interest and engagement truly drive its growth. If you find this project valuable, a simple star ⭐ on GitHub goes a long way in supporting further development and innovation.
+Thank you for taking the time to explore this project! Your interest and engagement truly drive its growth. If you find value in this project, giving it a star ⭐ on GitHub helps support further development and innovation.
 
-For those who want to take their support a step further, contributions in any form are welcome. Whether through feedback, submitting pull requests, or even a donation, your involvement helps ensure the continued progress and enhancement of this project.
+For those who wish to contribute further, your involvement is welcome in any form. Whether through feedback, submitting pull requests, or even making a donation, every bit helps ensure the continued progress and improvement of this project.
 
-Donations, while not expected, enable more time and resources to be dedicated to new features and improvements. Every bit of support makes a meaningful difference, and your generosity is greatly appreciated!
+While donations are not expected, they allow more time and resources to be dedicated to new features and enhancements. Every contribution makes a difference, and I truly appreciate your support. Additionally, you can **hire me for freelance work at 20 - 40 USD/hour**, and I also **accept payments in cryptocurrency**.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8APCCQ)
