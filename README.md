@@ -26,3 +26,5 @@ For those who wish to contribute further, your involvement is welcome in any for
 While donations are not expected, they allow more time and resources to be dedicated to new features and enhancements. Every contribution makes a difference, and I truly appreciate your support. Additionally, you can **hire me for freelance work at 20 - 40 USD/hour**, and I also **accept payments in cryptocurrency**.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8APCCQ)
+
+buymeacoffee.com/chipersage
