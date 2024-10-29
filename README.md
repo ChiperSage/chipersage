@@ -2,10 +2,7 @@
 
 I'm a passionate Backend Developer with a focus on creating secure and efficient authentication systems. I have experience in building login and registration features across several popular programming languages and frameworks. I have developed and implemented login and registration systems in various programming languages, each tailored to the specific strengths and best practices of the language.
 
-### Languages
-- Javascript, Python, PHP, Ruby.
-
-### Projects
+### Login Register Projects
 - https://github.com/ChiperSage/Login-Register-RustActix
 - https://github.com/ChiperSage/Login-Register-RubyOnRails
 - https://github.com/ChiperSage/Login-Register-Laravel11
