@@ -5,8 +5,8 @@ I'm a passionate Backend Developer with a focus on creating secure and efficient
 ### Login Register Projects
 
 ##Python
-Django:
-Flash:
+-Django:
+-Flash:
 
 - https://github.com/ChiperSage/Login-Register-RustActix
 - https://github.com/ChiperSage/Login-Register-RubyOnRails
