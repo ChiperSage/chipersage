@@ -6,15 +6,11 @@ I build practical, high-demand projects that solve real-world problems — from 
 
 🔧 Skills & Focus
 
-Programming: Python, PHP, JavaScript (Node.js, React, Tailwind)
-
-APIs & Integrations: Binance, Telegram Bot API, OpenAI
-
-Data & Trading Tools: Backtesting, RSI/MACD indicators, finance dashboards
-
-Automation: Web scraping, data pipelines, Telegram/Discord notifications
-
-AI/ML Tools: Hugging Face, LangChain, LLM-based Q&A & summarizers
+- Programming: Python, PHP, JavaScript (Node.js, React, Tailwind)
+- APIs & Integrations: Binance, Telegram Bot API, OpenAI
+- Data & Trading Tools: Backtesting, RSI/MACD indicators, finance dashboards
+- Automation: Web scraping, data pipelines, Telegram/Discord notifications
+- AI/ML Tools: Hugging Face, LangChain, LLM-based Q&A & summarizers
 
 Databases: MySQL, SQLite
 
