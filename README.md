@@ -16,26 +16,19 @@ Databases: MySQL, SQLite
 
 📂 Highlighted Projects
 
-🛠️ API Wrappers & SDKs → Lightweight libraries for quick integration (Binance, Telegram, OpenAI).
-
-📊 Trading Bots & Backtesters → Crypto/finance bots with technical indicators.
-
-🌐 Interactive Dashboards → Fullstack mini apps (React + Node + MySQL) with real-time charts.
-
-🤖 AI Mini Tools → PDF Q&A bot, Article summarizer, AI-powered assistants.
-
-⚡ Automation Scripts → Database backup, notification bots, web scraping utilities.
+- API Wrappers & SDKs → Lightweight libraries for quick integration (Binance, Telegram, OpenAI).
+- Trading Bots & Backtesters → Crypto/finance bots with technical indicators.
+- Interactive Dashboards → Fullstack mini apps (React + Node + MySQL) with real-time charts.
+- AI Mini Tools → PDF Q&A bot, Article summarizer, AI-powered assistants.
+- Automation Scripts → Database backup, notification bots, web scraping utilities.
 
 💡 Always open to collaboration on open source, AI/ML projects, and automation tools.
 
-## Login Register Projects
+## Projects
 
-### Rust
 - Actix: https://github.com/ChiperSage/Login-Register-RustActix
-### PHP
 - Laravel11: https://github.com/ChiperSage/Login-Register-Laravel11
 - Codeigniter4: https://github.com/ChiperSage/Login-Register-Codeigniter4
-
 - https://github.com/ChiperSage/Login-Register-RubyOnRails 
 - https://github.com/ChiperSage/Login-Register-Express.js
 
