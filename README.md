@@ -37,7 +37,7 @@ Thank you for taking the time to explore this project! Your interest and engagem
 
 For those who wish to contribute further, your involvement is welcome in any form. Whether through feedback, submitting pull requests, or even making a donation, every bit helps ensure the continued progress and improvement of this project.
 
-While donations are not expected, they allow more time and resources to be dedicated to new features and enhancements. Every contribution makes a difference, and I truly appreciate your support. Additionally, you can **hire me for freelance work at 20 - 40 USD/hour**, and I also **accept payments in cryptocurrency**.
+While donations are not expected, they allow more time and resources to be dedicated to new features and enhancements. Every contribution makes a difference, and I truly appreciate your support.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8APCCQ)
 
