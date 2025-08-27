@@ -11,8 +11,7 @@ I build practical, high-demand projects that solve real-world problems — from 
 - Data & Trading Tools: Backtesting, RSI/MACD indicators, finance dashboards
 - Automation: Web scraping, data pipelines, Telegram/Discord notifications
 - AI/ML Tools: Hugging Face, LangChain, LLM-based Q&A & summarizers
-
-Databases: MySQL, SQLite
+- Databases: MySQL, SQLite
 
 📂 Highlighted Projects
 
@@ -26,9 +25,9 @@ Databases: MySQL, SQLite
 
 ## Projects
 
-- Actix: https://github.com/ChiperSage/Login-Register-RustActix
-- Laravel11: https://github.com/ChiperSage/Login-Register-Laravel11
-- Codeigniter4: https://github.com/ChiperSage/Login-Register-Codeigniter4
+- https://github.com/ChiperSage/Login-Register-RustActix
+- https://github.com/ChiperSage/Login-Register-Laravel11
+- https://github.com/ChiperSage/Login-Register-Codeigniter4
 - https://github.com/ChiperSage/Login-Register-RubyOnRails 
 - https://github.com/ChiperSage/Login-Register-Express.js
 
