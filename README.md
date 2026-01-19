@@ -1,27 +1,10 @@
 # Hi There 👋
 
-🚀 Open Source & Applied Engineer | Backend & Automation Enthusiast | AI Explorer
+IT professional with over 12 years of experience in software development, starting in 2013. Strong foundation as a Developer, with progressive specialization in Data Science, Cybersecurity, Cloud Computing, Artificial Intelligence, and Enterprise Systems. Experienced in building and maintaining scalable applications, data pipelines, and cloud-based infrastructures that support business-critical operations.
 
-I build practical, high-demand projects that solve real-world problems — from API integrations to AI-driven tools. My focus is on writing clean, well-documented code that’s easy to use and extend.
+Proficient in designing secure systems, applying best practices in application security, access control, and risk mitigation. Hands-on experience with data analysis, model implementation, and AI-driven solutions to support decision-making and automation. Familiar with enterprise environments, including system integration, performance optimization, and long-term maintainability.
 
-🔧 Skills & Focus
-
-- Programming: Python, PHP, JavaScript (Node.js, React, Tailwind)
-- APIs & Integrations: Binance, Telegram Bot API, OpenAI
-- Data & Trading Tools: Backtesting, RSI/MACD indicators, finance dashboards
-- Automation: Web scraping, data pipelines, Telegram/Discord notifications
-- AI/ML Tools: Hugging Face, LangChain, LLM-based Q&A & summarizers
-- Databases: MySQL, SQLite
-
-📂 Highlighted Projects
-
-- API Wrappers & SDKs → Lightweight libraries for quick integration (Binance, Telegram, OpenAI).
-- Trading Bots & Backtesters → Crypto/finance bots with technical indicators.
-- Interactive Dashboards → Fullstack mini apps (React + Node + MySQL) with real-time charts.
-- AI Mini Tools → PDF Q&A bot, Article summarizer, AI-powered assistants.
-- Automation Scripts → Database backup, notification bots, web scraping utilities.
-
-💡 Always open to collaboration on open source, AI/ML projects, and automation tools.
+Comfortable working independently or within cross-functional teams, with a strong focus on reliability, efficiency, and continuous improvement. Adept at translating technical requirements into practical solutions aligned with business objectives.
 
 ## Projects
 
